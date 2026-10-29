@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Kartheekputti/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [1070-product-sales-analysis-iii](https://github.com/Kartheekputti/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
